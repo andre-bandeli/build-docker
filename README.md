@@ -7,7 +7,7 @@
 ![Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
-Projeto criado para testar a implementação do Docker junto ao Django e PostgreSQL 
+Projeto criado para testar a implementação do Docker junto ao Django e persistência de dados através do PostgreSQL 
 
 ### Ferramentas utilizadas
 
